@@ -18,5 +18,5 @@ def calculate_rectangle_area(width: int, height: int) -> int:
     return area
 
 # Para probar el código, descomenta las siguientes líneas
-# if __name__ == "__main__":
-#     print(calculate_rectangle_area(5, 10))
+#  if __name__ == "__main__":
+ #     print(calculate_rectangle_area(5, 10))
